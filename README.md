@@ -3,7 +3,8 @@
 For additional documentation and tutorials visit: https://missionbio.github.io/tapestriR/
 
 Missionbio no longer maintains the tapestriR package. 
-The `northNomad/tapestri` will serve the purpose of storing functions I write for a project.
+
+`northNomad/tapestri` will serve the purpose of storing functions I write for a project.
 # Installation
 
 **Not compatible with R >= 4.0.0.** Please use R 3.6.x. 
